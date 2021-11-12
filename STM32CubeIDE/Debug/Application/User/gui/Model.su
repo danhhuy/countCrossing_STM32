@@ -1,0 +1,3 @@
+Model.cpp:8:1:Model::Model()	0	static
+Model.cpp:21:6:void Model::valueUpdate()	0	static
+Model.cpp:13:6:void Model::tick()	0	static
